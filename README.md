@@ -1,6 +1,6 @@
-﻿# correcting-grade-25BCON0034
+﻿# correcting-grade-25BCON0782
 
-**Student:** Abhi Gupta (Roll No: 25BCON0034)
+**Student:** Chirag Sharma (Roll No: 25BCON0782)
 
 Python Student Utilities & Debugging Exercise (RED -> FIX -> GREEN)
 
